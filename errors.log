@@ -1,0 +1,1 @@
+Error: [2] Undefined variable $con - C:\xampp\htdocs\skinaesthetic\skinaesthetic\db.php:16Error: [2] Attempt to read property "connect_error" on null - C:\xampp\htdocs\skinaesthetic\skinaesthetic\db.php:16
